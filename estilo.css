@@ -1,0 +1,16 @@
+.valores{
+    margin-top: 2%;
+}
+aside{
+    position: fixed;
+    float: right;
+    top: 10%;
+    right: 40%;
+}
+
+/*
+.form-group label,
+.form-group input,
+.form-group button {
+    display: block;
+}*/
